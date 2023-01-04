@@ -30,9 +30,9 @@
   (fp_line (start -0.8 -0.4) (end 0.8 -0.4) (layer "F.Fab") (width 0.1) (tstamp f5ad47cc-8e7c-44b8-95b8-51f0cb4702e6))
   (pad "1" smd rect (at -0.75 0) (size 0.9 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp faaa3002-f411-4fcb-9ae5-448d21e088d4))
   (pad "2" smd rect (at 0.75 0) (size 0.9 0.95) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bbee4e3e-1869-48f8-8e45-c51f499bdfc5))
-  (model "LTST-C190KSKT.stp"
+  (model "C:/repos/github/Dragonrun1/dragon_mobile/shared_components/LTST-C190KSKT/3D/LTST-C190KSKT.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 0))
   )
 )

@@ -29,7 +29,7 @@
   (fp_line (start 2.675 1.812) (end -2.675 1.812) (layer "F.Fab") (width 0.1) (tstamp df948515-0d0f-455d-a2f4-0c3df345e8df))
   (pad "1" smd rect (at -2.2 0 90) (size 2.15 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0d3a0c7c-44a7-4168-9c54-edd8d3b8bac6))
   (pad "2" smd rect (at 2.2 0 90) (size 2.15 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 646f018d-66a2-466b-8e62-573201942bb9))
-  (model "SM6T15AY.stp"
+  (model "C:/repos/github/Dragonrun1/dragon_mobile/shared_components/SM6T30AY/3D/SM6T30AY.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
