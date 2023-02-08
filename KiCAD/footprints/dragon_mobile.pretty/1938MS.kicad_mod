@@ -30,7 +30,6 @@
   (fp_line (start -11.25 4.89) (end -9.652 4.89) (layer "F.SilkS") (width 0.1) (tstamp 5430af9b-d4df-4f9e-abde-e218437f757c))
   (fp_line (start -8.8654 5.8174) (end -8.8654 5.8174) (layer "F.SilkS") (width 0.1) (tstamp 5fb6f43e-19fa-48ea-b678-e2fd6ab0f710))
   (fp_line (start 9.652 -4.89) (end 11.25 -4.89) (layer "F.SilkS") (width 0.1) (tstamp 81d72f0d-0070-4604-895c-20f098898224))
-  (fp_line (start -8.9654 5.8174) (end -8.9654 5.8174) (layer "F.SilkS") (width 0.1) (tstamp 8d0e7d98-7ac6-4794-92fc-968b5f075e83))
   (fp_line (start 11.25 -4.89) (end 11.25 4.89) (layer "F.SilkS") (width 0.1) (tstamp a6396ebd-ae6b-46ee-89c9-728e17345a0d))
   (fp_line (start -9.652 -4.89) (end -11.25 -4.89) (layer "F.SilkS") (width 0.1) (tstamp bbe5daad-b481-4a32-bf87-2740f388f8bf))
   (fp_line (start -11.25 -4.89) (end -11.25 4.89) (layer "F.SilkS") (width 0.1) (tstamp db30b179-be2f-4490-a9a3-2824c177a0a8))
@@ -61,9 +60,9 @@
   (pad "14" smd rect (at -3.81 -4.3) (size 1.13 2.44) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 27274b10-7f4f-4cec-8084-4f54bf5c3175))
   (pad "15" smd rect (at -6.35 -4.3) (size 1.13 2.44) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 88d39e74-1958-4f87-8914-e2a4a393debd))
   (pad "16" smd rect (at -8.89 -4.3) (size 1.13 2.44) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 884a55c6-4cda-4ba5-985c-85db4896622d))
-  (model "${KIPRJMOD}/3dmodels/193-8MS.STEP"
-    (offset (xyz 0 -0.2 5.8))
+  (model "C:/repos/github/Dragonrun1/dragon_mobile/shared_components/3D_Models/193-8MS.STEP"
+    (offset (xyz 0 -0.254 5.842))
     (scale (xyz 1 1 1))
-    (rotate (xyz -90 0 -90))
+    (rotate (xyz 90 -180 90))
   )
 )
