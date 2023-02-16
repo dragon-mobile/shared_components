@@ -14,6 +14,10 @@
     (tstamp 7cae65b7-bae3-431d-8124-bc2d73bff713)
   )
   (fp_text_box "BATT\nOUT1\nOUT2\nOUT3\nOUT4"
+  (start 0 -8.4836) (end 4.0386 0) (layer "B.SilkS") (tstamp 497540c9-9df6-4089-b7ac-8bb7747efbbe)
+      (effects (font (size 1 1) (thickness 0.2) bold) (justify top mirror))
+    (stroke (width 0.2) (type solid))  )
+  (fp_text_box "BATT\nOUT1\nOUT2\nOUT3\nOUT4"
   (start 0 -8.4836) (end 4.0386 0) (layer "F.SilkS") (tstamp 405aae0a-a55b-445a-b3da-fd3caadecc62)
       (effects (font (size 1 1) (thickness 0.2) bold) (justify top))
     (stroke (width 0.2) (type solid))  )
