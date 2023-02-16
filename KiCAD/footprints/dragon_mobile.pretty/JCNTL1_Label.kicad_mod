@@ -1,0 +1,20 @@
+(footprint "JCNTL1_Label" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr board_only exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "JCNTL1_Label" (at 22.225 17.5006 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 59024afd-6a04-4b51-a034-376d5049e2d6)
+  )
+  (fp_text value "JCNTL1_Label" (at 22.225 19.0006 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 88550773-2c36-4517-921a-91c84fd24f0d)
+  )
+  (fp_text user "${REFERENCE}" (at 22.225 20.5006 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 7cae65b7-bae3-431d-8124-bc2d73bff713)
+  )
+  (fp_text_box "OUT8\nOUT7\nOUT6\nOUT5\nBATT"
+  (start 0 -8.4836) (end 4.0386 0) (layer "F.SilkS") (tstamp 405aae0a-a55b-445a-b3da-fd3caadecc62)
+      (effects (font (size 1 1) (thickness 0.2) bold) (justify top))
+    (stroke (width 0.2) (type solid))  )
+)
