@@ -46,7 +46,7 @@
   (pad "1" smd rect (at -1.2 -0.955 90) (size 0.6 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 0ac57266-3d39-410d-9b16-aa563d7caeed))
   (pad "2" smd rect (at -1.2 0.955 90) (size 0.6 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp c5b9b96f-27f1-433a-83c2-45a18bf0a7f2))
   (pad "3" smd rect (at 1.2 0 90) (size 0.6 1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 09fd4d04-49c2-4426-91d9-d18bac6e5578))
-  (model "${KIPRJMOD}/shared_components/3D_Models/2V7002KT1G.stp"
+  (model "${DRAGON_SHARED_COMPONENTS_DIR}/3D_Models/2V7002KT1G.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
