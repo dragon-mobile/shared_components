@@ -1,0 +1,27 @@
+(footprint "JCTL3_Label" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (descr "Label for JCTL3 connectors")
+  (attr board_only exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "JCNTL1_Label" (at 22.0472 17.399 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 59024afd-6a04-4b51-a034-376d5049e2d6)
+  )
+  (fp_text value "JCTL3_Label" (at 22.0472 18.899 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 88550773-2c36-4517-921a-91c84fd24f0d)
+  )
+  (fp_text user "${REFERENCE}" (at 22.0472 20.399 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp 7cae65b7-bae3-431d-8124-bc2d73bff713)
+  )
+  (fp_text_box "OUT12\nOUT11\nOUT10\nOUT9\nBATT"
+  (start -2.7178 -4.3561) (end 2.3622 4.1529) (layer "B.SilkS") (tstamp a0c9b9c5-d854-492f-84f3-a420748fe0f9)
+      (effects (font (size 1 1) (thickness 0.2) bold) (justify top mirror))
+    (stroke (width 0.2) (type solid))  )
+  (fp_text_box "OUT12\nOUT11\nOUT10\nOUT9\nBATT"
+  (start -2.7178 -4.3561) (end 2.3622 4.1529) (layer "F.SilkS") (tstamp 2bca4648-17f7-4e5b-a753-c22f864cfccf)
+      (effects (font (size 1 1) (thickness 0.2) bold) (justify top))
+    (stroke (width 0.2) (type solid))  )
+  (fp_rect (start -2.7178 -4.3561) (end 2.3622 4.1529)
+    (stroke (width 0.2) (type solid)) (fill none) (layer "F.CrtYd") (tstamp 4174b3b3-dc8b-4adc-963e-703990c7cc79))
+)

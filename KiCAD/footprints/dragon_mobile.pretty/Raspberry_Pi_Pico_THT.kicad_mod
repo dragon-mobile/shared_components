@@ -251,9 +251,29 @@
       )
     )
   )
-  (model "C:/repos/github/Dragonrun1/dragon_mobile/shared_components/3D_Models/PicoWH.stp"
+  (model "C:/repos/github/Dragonrun1/dragon_mobile/shared_components/3D_Models/PicoWH.stp" hide
     (offset (xyz -1.63 -49.63 3))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
+  )
+  (model "${KICAD7_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x20_P2.54mm_Vertical.step" hide
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KICAD7_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x20_P2.54mm_Vertical.step"
+    (offset (xyz 17.75 0 2.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
+  )
+  (model "${DRAGON_SHARED_COMPONENTS_DIR}/3D_Models/PicoW.stp"
+    (offset (xyz -1.6 -49.6 3.25))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
+  (model "${KICAD7_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x20_P2.54mm_Vertical.step"
+    (offset (xyz 0 0 2.5))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 180 0))
   )
 )
